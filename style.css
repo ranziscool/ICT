@@ -1,0 +1,17 @@
+body {
+	background-image: url(jolibee.png)
+
+	font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
+ h3 {
+  text-decoration-line: underline;
+}
+
+h1 {
+  text-shadow: 2px 2px 5px red;
+}
